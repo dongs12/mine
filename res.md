@@ -171,11 +171,11 @@ Kubernetes와 Docker 기반의 PaaS 구축 PoC (like Red Hat Open Shift)
 
 ***
 
-###학력정보
+### 학력정보
 서울과학기술대학교 컴퓨터공학과 졸업
 ***
 
-###자격증
+### 자격증
 정보처리기사 (한국산업인력공단, 2010-05-28)  
 OCJP (Oracle, 2012-03-12)  
 OCWCD (Oracle, 2012-10-06)  
